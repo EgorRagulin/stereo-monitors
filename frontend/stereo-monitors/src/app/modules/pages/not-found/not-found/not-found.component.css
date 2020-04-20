@@ -1,0 +1,9 @@
+.not-found
+{
+  color: #fff;
+}
+a:hover {
+  text-decoration: none;
+  color: #fff;
+  background: #8fabe2;
+}
